@@ -51,3 +51,4 @@ def tokenize_text(df, remove_stopwords=False):
         df['Tokenized'].apply(lambda x: [i for i in x if i not in stop])
 
     return df
+#testpr
