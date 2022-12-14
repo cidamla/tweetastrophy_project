@@ -1,5 +1,5 @@
 # About the project
-Tweetastrophy is a project which classifies tweets whether they imply a disaster or not. If it implies a disaster, the web-app shows the location that disaster occures.
+Tweetastrophy is a project which classifies tweets whether they imply a disaster or not. If it implies a disaster, the web-app shows the location that disaster occurs.
 
 - Dataset is gained from Kaggle competition "Natural Language Processing with Disaster Tweets".
 
